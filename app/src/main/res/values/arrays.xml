@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="num_buttons">
+        <item>button_0</item>
+        <item>button_1</item>
+        <item>button_2</item>
+        <item>button_3</item>
+        <item>button_4</item>
+        <item>button_5</item>
+        <item>button_6</item>
+        <item>button_7</item>
+        <item>button_8</item>
+        <item>button_9</item>
+    </array>
+</resources>
